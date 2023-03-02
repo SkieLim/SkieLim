@@ -11,7 +11,7 @@
   <img align="center" alt="Skie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Skie-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!--<img align="center" alt="Skie-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
-  <img align="right" alt="Skie-pic" height="300" style="border-radius:50px;" src="https://github.com/SkieLim/SkieLim/blob/main/Caixinha%20de%20suco%20PB.png">
+  <img align="right" alt="Rei-Gif" height="150" style="border-radius:50px;" src="https://media.tenor.com/nQQhfbogSLoAAAAi/rei-ayanami.gif">
 </div>
   
   ##
@@ -22,5 +22,7 @@
  	<a href="https://www.twitch.tv/skielim" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:skinemoculo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/skie-lim-8b3526264" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/SkieLim/SkieLim/blob/output/github-contribuition-grid-snake.svg)
   
 </div>
