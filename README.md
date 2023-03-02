@@ -11,7 +11,7 @@
   <img align="center" alt="Skie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Skie-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!--<img align="center" alt="Skie-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
-  <img align="right" alt="Skie-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/CattS4eOJZW/">
+  <img align="right" alt="Skie-pic" height="300" style="border-radius:50px;" src="https://github.com/SkieLim/SkieLim/blob/main/Taru%20Cambion%20sem%20fundoo.png">
 </div>
   
   ##
